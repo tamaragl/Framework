@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Node/Expression/Binary
+END
+SubTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Node/Expression/Binary/SubTest.php
+END
+MulTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Node/Expression/Binary/MulTest.php
+END
+ModTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Node/Expression/Binary/ModTest.php
+END
+OrTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Node/Expression/Binary/OrTest.php
+END
+AndTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Node/Expression/Binary/AndTest.php
+END
+DivTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Node/Expression/Binary/DivTest.php
+END
+FloorDivTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Node/Expression/Binary/FloorDivTest.php
+END
+ConcatTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Node/Expression/Binary/ConcatTest.php
+END
+AddTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Node/Expression/Binary/AddTest.php
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape
+END
+basic.test
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/basic.test
+END
+type.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/type.test
+END
+nested.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/nested.test
+END
+strategy.test
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/strategy.test
+END
+double_escaping.test
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/double_escaping.test
+END
+with_filters.test
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/with_filters.test
+END
+functions.test
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/functions.test
+END
+with_filters_arguments.test
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/with_filters_arguments.test
+END
+objects.test
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/objects.test
+END
+raw.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/raw.test
+END
+with_pre_escape_filters.test
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/with_pre_escape_filters.test
+END
+literal.test
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/literal.test
+END
+with_preserves_safety_filters.test
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/with_preserves_safety_filters.test
+END
+blocks.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/autoescape/blocks.test
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/verbatim
+END
+basic.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/verbatim/basic.test
+END
+whitespace_control.test
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/verbatim/whitespace_control.test
+END
+mixed_usage_with_raw.test
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/verbatim/mixed_usage_with_raw.test
+END

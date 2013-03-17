@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/trainee2013/!svn/ver/601/exercices/tamara/oop4/app/tests
+END
+filterPostTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/trainee2013/!svn/ver/350/exercices/tamara/oop4/app/tests/filterPostTest.php
+END
+filterServerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/trainee2013/!svn/ver/350/exercices/tamara/oop4/app/tests/filterServerTest.php
+END
+routesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/trainee2013/!svn/ver/350/exercices/tamara/oop4/app/tests/routesTest.php
+END
+testStaffTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/trainee2013/!svn/ver/350/exercices/tamara/oop4/app/tests/testStaffTest.php
+END
+paginatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/trainee2013/!svn/ver/601/exercices/tamara/oop4/app/tests/paginatorTest.php
+END
+filterGetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/trainee2013/!svn/ver/350/exercices/tamara/oop4/app/tests/filterGetTest.php
+END
+apc_cacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/trainee2013/!svn/ver/427/exercices/tamara/oop4/app/tests/apc_cacheTest.php
+END
+memcachedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/trainee2013/!svn/ver/454/exercices/tamara/oop4/app/tests/memcachedTest.php
+END

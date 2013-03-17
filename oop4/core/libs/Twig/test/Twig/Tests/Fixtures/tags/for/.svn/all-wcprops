@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for
+END
+inner_variables.test
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/inner_variables.test
+END
+recursive.test
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/recursive.test
+END
+loop_not_defined.test
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/loop_not_defined.test
+END
+loop_not_defined_cond.test
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/loop_not_defined_cond.test
+END
+keys.test
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/keys.test
+END
+keys_and_values.test
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/keys_and_values.test
+END
+loop_context.test
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/loop_context.test
+END
+context.test
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/context.test
+END
+objects_countable.test
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/objects_countable.test
+END
+condition.test
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/condition.test
+END
+loop_context_local.test
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/loop_context_local.test
+END
+else.test
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/else.test
+END
+objects.test
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/objects.test
+END
+nested_else.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/nested_else.test
+END
+values.test
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/for/values.test
+END

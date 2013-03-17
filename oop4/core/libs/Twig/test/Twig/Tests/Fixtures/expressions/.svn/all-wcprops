@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions
+END
+ternary_operator_noelse.test
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/ternary_operator_noelse.test
+END
+bitwise.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/bitwise.test
+END
+array_call.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/array_call.test
+END
+ternary_operator_nothen.test
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/ternary_operator_nothen.test
+END
+comparison.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/comparison.test
+END
+method_call.test
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/method_call.test
+END
+magic_call.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/magic_call.test
+END
+unary_precedence.test
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/unary_precedence.test
+END
+array.test
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/array.test
+END
+literals.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/literals.test
+END
+binary.test
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/binary.test
+END
+strings.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/strings.test
+END
+grouping.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/grouping.test
+END
+postfix.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/postfix.test
+END
+dotdot.test
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/dotdot.test
+END
+unary.test
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/unary.test
+END
+ternary_operator.test
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/expressions/ternary_operator.test
+END

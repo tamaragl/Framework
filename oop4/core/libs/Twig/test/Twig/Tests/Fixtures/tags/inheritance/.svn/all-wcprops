@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance
+END
+conditional.test
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/conditional.test
+END
+parent_without_extends_but_traits.test
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_without_extends_but_traits.test
+END
+parent_without_extends.test
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_without_extends.test
+END
+parent_isolation.test
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_isolation.test
+END
+nested_blocks.test
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/nested_blocks.test
+END
+basic.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/basic.test
+END
+dynamic.test
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/dynamic.test
+END
+parent_in_a_block.test
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_in_a_block.test
+END
+parent.test
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/parent.test
+END
+nested_blocks_parent_only.test
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/nested_blocks_parent_only.test
+END
+parent_nested.test
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_nested.test
+END
+nested_inheritance.test
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/nested_inheritance.test
+END
+multiple.test
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/multiple.test
+END
+extends_as_array.test
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/extends_as_array.test
+END
+use.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/use.test
+END
+parent_change.test
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_change.test
+END
+empty.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/empty.test
+END
+template_instance.test
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/inheritance/template_instance.test
+END

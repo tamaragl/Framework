@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/macros
+END
+default_values.test
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/macros/default_values.test
+END
+with_filters.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/macros/with_filters.test
+END
+reserved_variables.test
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/macros/reserved_variables.test
+END
+simple.test
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/macros/simple.test
+END
+nested_calls.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/macros/nested_calls.test
+END

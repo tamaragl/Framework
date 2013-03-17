@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/raw
+END
+basic.test
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/raw/basic.test
+END
+whitespace_control.test
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/raw/whitespace_control.test
+END
+mixed_usage_with_raw.test
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/trainee2013/!svn/ver/354/exercices/tamara/oop4/core/libs/Twig/test/Twig/Tests/Fixtures/tags/raw/mixed_usage_with_raw.test
+END
